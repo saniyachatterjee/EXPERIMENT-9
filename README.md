@@ -48,6 +48,7 @@ void geeks()
 }
 ```
 O/P:
+![Screenshot 2024-08-24 193745](https://github.com/user-attachments/assets/94b9a5a8-5d9b-4eb8-b8ed-8304d68db990)
 
 2. 1D Array of pointers:
 ```
