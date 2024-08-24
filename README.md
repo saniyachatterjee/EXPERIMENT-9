@@ -105,6 +105,7 @@ int main() {
 ```
 
 O/P:
+![Screenshot 2024-08-24 193941](https://github.com/user-attachments/assets/5d708855-b2b3-42ff-addc-ea72901aaf42)
 
 4. Modifying the Contents of a Memory Location Using Pointers :
 ```
@@ -123,6 +124,7 @@ int main() {
 }
 ```
 O/P:
+![Screenshot 2024-08-24 194007](https://github.com/user-attachments/assets/6470df88-8690-435d-b398-71675cd4ead2)
 
 # Conclusion 
 These codes are foundational in understanding how memory management and pointer arithmetic work in C++. They show the power and potential pitfalls (like pointer manipulation) of using pointers. Understanding pointers is essential for effective C++ programming. Pointers provide direct memory access, which improves performance and flexibility by allowing for efficient data manipulation and memory management. They make it easier to perform operations like dynamic memory allocation, array handling, and complex data structure management. Understanding pointers also helps to optimize code and create robust algorithms. Programmers gain the skills required to handle advanced programming tasks and create high-performance applications by learning how to properly declare, initialize, and use pointers. Pointer proficiency is required to fully utilize C++'s capabilities and excel at systems-level programming.
