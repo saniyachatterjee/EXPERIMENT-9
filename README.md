@@ -77,6 +77,7 @@ int main()
 }
 ```
 O/P:
+![Screenshot 2024-08-24 193858](https://github.com/user-attachments/assets/da9f943b-5bff-497d-a56d-d936109212a2)
 3. Pointer Arithmetic in C++ :
 ```
 #include<iostream>
