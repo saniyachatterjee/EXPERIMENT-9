@@ -1,5 +1,5 @@
-//Name: Saaj Mulik
-//Prn: 23070123109
+//Name: Saniya Chatterjee
+//Prn: 23070123113
 //Class: EnTC B-2
 #include<iostream>
 using namespace std;
